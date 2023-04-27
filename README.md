@@ -1,1 +1,1 @@
-# AzureFunctionOpenAISsample
+# AzureFunctionOpenAISample
